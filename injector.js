@@ -1,5 +1,5 @@
 'use strict';
-
+/** adding a comment */
 /**
  * @ngdoc function
  * @module ng
