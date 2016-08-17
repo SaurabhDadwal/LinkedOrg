@@ -1,7 +1,7 @@
 'use strict';
 
 /* eslint-disable no-invalid-this */
-
+/* comment added*/
 var bower = require('bower');
 var util = require('./utils.js');
 var shelljs = require('shelljs');
