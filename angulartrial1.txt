@@ -1,1 +1,2 @@
 Angular Trial 1.text
+Updated changes for angular trail
