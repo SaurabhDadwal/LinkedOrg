@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#unix command
 # Install nvm for this shell
 source ~/.nvm/nvm.sh
 
